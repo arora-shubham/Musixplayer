@@ -21,7 +21,7 @@ API 21 and later (Android 5.0 & Later)
 
 ##Screenshots
 
-[Imgur](http://i.imgur.com/fJFbnNE.jpg)
+[Imgur](http://i.imgur.com/fJFbnNE.jpg?raw=true)
 
 
 
